@@ -3,7 +3,7 @@
 ---
 
 ## 🎯 Objective  
-This project investigates the decline in **credit and debit card payment acceptance rates** processed by Globepay for Deel. The goal is to uncover potential causes behind this drop and provide actionable insights to improve payment acceptance.
+This project analyzes credit and debit card payment acceptance rates to identify factors influencing fluctuations and declines. The goal is to uncover potential causes behind acceptance rate changes and provide actionable insights to improve payment performance.
 
 
 ## 🗂️ Data and Methodology  
