@@ -28,22 +28,22 @@ This project investigates the decline in **credit and debit card payment accepta
 ### 2️⃣ Time Trend Analysis  
 ![Time Trend](Charts/time_trend.png)
 > A significant dip in acceptance rates occurred between **February and April**, with notable daily fluctuations indicating potential instability or underlying issues.
-![Time Trend Heatmap](Charts/time_trend_heatmap.png)
+![Time Trend Heatmap](Charts/time_trend_Heatmap.png)
 
 ### 3️⃣ Segmentation Analysis  
 
 The acceptance rate was analyzed across several key segments:
 
 - **Weekend vs. Weekday**  
-![Weekend vs Weekday](Charts/weekend_vs_weekday.png)
+![Weekend vs Weekday](Charts/Weekend_vs_Weekday.png)
 > Acceptance rates remain consistent between weekends (68%) and weekdays (69%), indicating no significant day-of-week effect.  
 
 - **Day of Week** 
-![Day of Week](Charts/by_day_of_week.png)
+![Day of Week](Charts/by%20Day_of_the_Week.png)
 > Acceptance rates are stable across all days, ranging from 66% to 74%.  
 
 - **Country**  
-![By Country](Charts/by_country.png)
+![By Country](Charts/by_Country.png)
 > Acceptance rates vary slightly by country:  
 > - US: 67%  
 > - MX/AE: ~68%  
@@ -51,7 +51,7 @@ The acceptance rate was analyzed across several key segments:
 > - FR: 73%  
 
 - **CVV Provided**  
-![CVV Provided](Charts/by_cvv_provided.png)
+![CVV Provided](Charts/by_CVV_Provided.png)
 > Transactions without CVV do not significantly affect acceptance rates, potentially due to tokenized or saved card transactions.  
 
 - **Transaction Amount** 
@@ -59,7 +59,7 @@ The acceptance rate was analyzed across several key segments:
 > A slight negative correlation exists between daily acceptance rate and total transaction amount.
 
 ### 4️⃣ Chargeback Analysis  
-![Chargeback](Charts/chargeback.png)
+![Chargeback](Charts/Chargeback.png)
 > A spike in chargebacks preceded the acceptance rate drop, suggesting Globepay may have tightened fraud controls.  
 > *Note:* Limited historical chargeback data restricts definitive conclusions.
 
