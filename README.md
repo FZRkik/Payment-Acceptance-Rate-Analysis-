@@ -5,7 +5,6 @@
 ## 🎯 Objective  
 This project investigates the decline in **credit and debit card payment acceptance rates** processed by Globepay for Deel. The goal is to uncover potential causes behind this drop and provide actionable insights to improve payment acceptance.
 
----
 
 ## 🗂️ Data and Methodology  
 - Analyzed **acceptance** and **chargeback** reports, focusing on key features such as:  
@@ -20,7 +19,6 @@ This project investigates the decline in **credit and debit card payment accepta
   - Chargeback trend analysis  
 - Focused on the critical period of declining acceptance rates: **February - April**.
 
----
 
 ## 🔍 Key Findings  
 
@@ -61,7 +59,7 @@ The acceptance rate was analyzed across several key segments:
 > A slight negative correlation exists between daily acceptance rate and total transaction amount.
 
 ### 4️⃣ Chargeback Analysis  
-![Chargeback](Charts/chargeback.png)
+![Chargeback](Charts/Chargeback.png)
 > A spike in chargebacks preceded the acceptance rate drop, suggesting Globepay may have tightened fraud controls.  
 > *Note:* Limited historical chargeback data restricts definitive conclusions.
 
