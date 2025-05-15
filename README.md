@@ -10,7 +10,7 @@ This project investigates the decline in **credit and debit card payment accepta
 ## 🗂️ Data and Methodology  
 - Analyzed **acceptance** and **chargeback** reports, focusing on key features such as:  
   - Transaction date  
-  - Country  
+  - Country
   - Currency  
   - Transaction amount  
   - CVV provision  
@@ -28,25 +28,24 @@ This project investigates the decline in **credit and debit card payment accepta
 > The average daily acceptance rate is approximately **70%**.
 
 ### 2️⃣ Time Trend Analysis  
-
-![Acceptance Rate by Day and Mounth](Payment-Acceptance-Rate-Analysis-\Charts\time trend.png)
+<img src="Payment-Acceptance-Rate-Analysis-\Charts\time trend.png"  style="width: auto; height: auto;" />
 > A significant dip in acceptance rates occurred between **February and April**, with notable daily fluctuations indicating potential instability or underlying issues.
-![Acceptance Rate Heatmap by Day and Month](Payment-Acceptance-Rate-Analysis-\Charts\time trend Heatmap.png)
+<img src="Payment-Acceptance-Rate-Analysis-\Charts\time trend Heatmap.png"  style="width: auto; height: auto;" />
 
 ### 3️⃣ Segmentation Analysis  
 
 The acceptance rate was analyzed across several key segments. The following visualizations illustrate these insights:
 
 - **Weekend vs. Weekday**  
- ![Weekend vs Weekday Acceptance Rate](Payment-Acceptance-Rate-Analysis-\Charts\Weekend vs Weekday.png)
+ <img src="Payment-Acceptance-Rate-Analysis-\Charts\Weekend vs Weekday.png"  style="width: auto; height: auto;" />
   Acceptance rates remain consistent between weekends (68%) and weekdays (69%), indicating no significant day-of-week effect.  
 
 - **Day of Week** 
- ![Acceptance Rate by Day of Week](Payment-Acceptance-Rate-Analysis-\Charts\by Day of the Week.png) 
+ <img src="Payment-Acceptance-Rate-Analysis-\Charts\by Day of the Week.png"  style="width: auto; height: auto;" />
   Acceptance rates are stable across all days, ranging from 66% to 74%.  
 
 - **Country**  
-  ![Acceptance Rate by Country](Payment-Acceptance-Rate-Analysis-\Charts\by Country.png)
+   <img src="Payment-Acceptance-Rate-Analysis-\Charts\by Country.png"  style="width: auto; height: auto;" />
   Acceptance rates vary slightly by country, with minor differences suggesting no major geographical impact:  
   - US: 67%  
   - MX/AE: ~68%  
@@ -54,15 +53,16 @@ The acceptance rate was analyzed across several key segments. The following visu
   - FR: 73%  
 
 - **CVV Provided**  
-  ![Acceptance Rate by CVV Provided](Payment-Acceptance-Rate-Analysis-\Charts\by CVV Provided.png)
+  <img src="Payment-Acceptance-Rate-Analysis-\Charts\by CVV Provided.png"  style="width: auto; height: auto;" />
   Transactions without CVV do not significantly affect acceptance rates, potentially due to tokenized or saved card transactions.  
 
 - **Transaction Amount** 
-  ![Acceptance Rate vs Transaction Amount](Payment-Acceptance-Rate-Analysis-\Charts\by  transaction amount.png) 
+  <img src="Payment-Acceptance-Rate-Analysis-\Charts\by  transaction amount.png"  style="width: auto; height: auto;" />
   A slight negative correlation exists between daily acceptance rate and total transaction amount. Higher transaction amounts may trigger stricter payment processor controls.  
 
 ### 4️⃣ Chargeback Analysis  
-  ![Daily Acceptance Rate and Chargeback Rate](Payment-Acceptance-Rate-Analysis-\Charts\Chargeback.png) 
+<img src="Payment-Acceptance-Rate-Analysis-\ChartsChargeback.png"  style="width: auto; height: auto;" />
+
 > A spike in chargebacks preceded the acceptance rate drop, suggesting a trigger.  
 > This may indicate Globepay tightened fraud controls, leading to increased declines.  
 > *Note:* Limited historical chargeback data restricts definitive conclusions.
