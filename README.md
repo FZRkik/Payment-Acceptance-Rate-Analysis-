@@ -27,8 +27,9 @@ This project investigates the decline in **credit and debit card payment accepta
 
 ### 2️⃣ Time Trend Analysis  
 ![Time Trend](Charts/time_trend.png)
-> A significant dip in acceptance rates occurred between **February and April**, with notable daily fluctuations indicating potential instability or underlying issues.
 ![Time Trend Heatmap](Charts/time_trend_Heatmap.png)
+> A significant dip in acceptance rates occurred between **February and April**, with notable daily fluctuations indicating potential instability or underlying issues.
+
 
 ### 3️⃣ Segmentation Analysis  
 
