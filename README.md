@@ -59,11 +59,7 @@ The acceptance rate was analyzed across several key segments:
 > A slight negative correlation exists between daily acceptance rate and total transaction amount.
 
 ### 4️⃣ Chargeback Analysis  
-<<<<<<< HEAD
 ![Chargeback](Charts/chargeback.png)
-=======
-![Chargeback](Charts/Chargeback.png)
->>>>>>> e3bd1cdfbe579e986785dd1cf1668bf607e0539e
 > A spike in chargebacks preceded the acceptance rate drop, suggesting Globepay may have tightened fraud controls.  
 > *Note:* Limited historical chargeback data restricts definitive conclusions.
 
