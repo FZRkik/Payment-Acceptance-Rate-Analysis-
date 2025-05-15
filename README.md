@@ -3,8 +3,7 @@
 ---
 
 ## 🎯 Objective  
-This project analyzes credit and debit card payment acceptance rates to identify factors influencing fluctuations and declines. The goal is to uncover potential causes behind acceptance rate changes and provide actionable insights to improve payment performance.
-
+This analysis investigates the decline in credit and debit card payment acceptance rates processed by Globepay. The primary goal is to identify potential causes behind this drop and provide actionable insights to improve acceptance performance.
 
 ## 🗂️ Data and Methodology  
 - Analyzed **acceptance** and **chargeback** reports, focusing on key features such as:  
